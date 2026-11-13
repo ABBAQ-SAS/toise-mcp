@@ -1,0 +1,12 @@
+{
+  "identifier": "abbaq-toise",
+  "name": "TOISE — French land and real estate intelligence",
+  "version": "1.0.0",
+  "description": "French land intelligence from public data: corporate owners, PLU zoning rules quoted page by page, buildable capacity, DVF sales, appraisals, risks. 71 tools, every figure sourced.",
+  "author": "ABBAQ SAS",
+  "authorUrl": "https://toiseai.com",
+  "homepage": "https://toiseai.com",
+  "cloudEndpoint": "https://mcp.toiseai.com/mcp",
+  "category": "business",
+  "tags": ["real-estate", "france", "land", "urbanism", "open-data", "property"]
+}
